@@ -1,1 +1,1 @@
-# FS-1030_Personal_Projecy
+# FS-1030_Personal_Project
